@@ -1,0 +1,10 @@
+# Sample earthquake data
+# This is a sample CSV file for demonstration purposes.
+# In a real-world scenario, you would replace this with actual earthquake data.
+
+year,month,day,mag,lat,long,depth
+2010,1,4,7.3,-58.65,-29.57,65
+2011,3,11,9.0,142.36,38.32,24
+2012,4,11,8.6,93.06,24.39,28
+2013,7,28,6.5,-117.65,33.81,13
+2014,8,24,6.0,-118.13,34.13,10

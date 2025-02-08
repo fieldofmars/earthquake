@@ -1,0 +1,1 @@
+Initial commit: Set up R Shiny application with earthquake data dashboard

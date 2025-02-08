@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+*.rdb
+*.rdi
+*.Rout
+*.Rhistory
+*.RData
+
+# User-specific files
+.Rproj.user/
